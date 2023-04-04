@@ -8,7 +8,6 @@ I am a front-end developer with a keen interest in user experience and design. I
 <a href="https://github.com/chizobachigbo?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChizobaChigbo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
----
 
 ### 🧰 Languages and Tools
 
