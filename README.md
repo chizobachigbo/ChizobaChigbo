@@ -1,5 +1,4 @@
-### Chizoba Chigbo 👋
-
+<h1>Hi 👋, I'm Chizoba Chigbo</h1>
 
 **`Software Developer (Front-End Developer & UX/UI Designer)`**
 
