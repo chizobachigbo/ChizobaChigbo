@@ -20,6 +20,7 @@ I am a front-end developer with a keen interest in user experience and design. I
 <br />
 
 ---
+
 - 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Javascript , React JS and Front end design**
