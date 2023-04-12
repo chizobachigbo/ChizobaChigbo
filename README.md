@@ -36,4 +36,4 @@ I am a front-end developer with a keen interest in user experience and design. I
 
 <details>
  <summary><h3>Chizoba's Coding Journey</h3></summary>
-   I started my coding journey as a self taught software developer. It was really hard and discouraging in the befgiing  but I stuck through it. Through various trial and error and constant self encouragement and motivation I was able to pull through the starting phase progress to project development. I strive everyday to improve my skill and be marketable within the Tech market. 
+   I started my coding journey as a self taught software developer. It was really hard and discouraging but I stuck through it. Through various trials, constant self encouragement and motivation I was able to overcome the starting phase and then progressed to project development. I strive everyday to improve my skill and update my knowledge of the Technology Industry. 
